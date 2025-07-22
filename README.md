@@ -8,11 +8,12 @@
   <a href="https://arxiv.org/abs/2401.04081">
     <img src="https://img.shields.io/badge/arXiv-2401.04081-b31b1b" alt="arXiv">
   </a>
-<a href="https://doi.org/10.5281/zenodo.15660131"><img src="https://zenodo.org/badge/769330692.svg" alt="DOI"></a>
+<a href="https://doi.org/10.1038/s41467-025-62121-1"><img src="https://zenodo.org/badge/DOI/10.1038/s41467-025-62121-1.svg" alt="DOI"></a>
 </p>
 
+ 💻Code implementation for "Real-time prediction of intensive care unit patient acuity and therapy requirements using state-space modelling" paper.
 
-📝 Paper is under review on [*Nature Communications*](https://www.researchsquare.com/article/rs-4790824/v1) ([📄PDF](https://www.researchsquare.com/article/rs-4790824/v1.pdf?c=1722920524000)).
+📝 Paper was accepted for publication at [*Nature Communications*](https://www.researchsquare.com/article/rs-4790824/v1) ([📄PDF](https://www.researchsquare.com/article/rs-4790824/v1.pdf?c=1722920524000)).
 
 ---
 
@@ -217,18 +218,13 @@ This project is licensed under the [GNU General Public License v3.0](https://www
 If you use this work in your research, please cite:
 
 ```
-@article{contreras2024apricotmamba_rs,
-  author    = {Contreras, Miguel and Silva, Brandon and Shickel, Benjamin and Davidson, Alex and Ozrazgat-Baslanti, Tezcan and Ren, Yuan and Guan, Zihan and Balch, Justin and Zhang, Jian and Bandyopadhyay, Sudeep and Loftus, Thomas and Khezeli, Kiarash and Nerella, Sandeep and Bihorac, Azra and Rashidi, Parisa},
-  title     = {APRICOT-Mamba: Acuity Prediction in Intensive Care Unit (ICU): Development and Validation of a Stability, Transitions, and Life-Sustaining Therapies Prediction Model},
-  journal   = {Research Square [Preprint]},
-  year      = {2024},
-  month     = {Aug},
-  day       = {6},
-  pages     = {rs.3.rs-4790824},
-  doi       = {10.21203/rs.3.rs-4790824/v1},
-  pmid      = {39149454},
-  pmcid     = {PMC11326394},
-  note      = {Preprint}
+@article{contreras2025real,
+  author    = {Miguel Contreras, Brandon Silva, Benjamin Shickel, Andrea Davidson, Tezcan Ozrazgat-Baslanti, Yuanfang Ren, Ziyuan Guan, Jeremy Balch, Jiaqing Zhang, Sabyasachi Bandyopadhyay, Tyler Loftus, Kia Khezeli, Gloria Lipori, Jessica Sena, Subhash Nerella, Azra Bihorac, Parisa Rashidi},
+  title     = {Real-time prediction of intensive care unit patient acuity and therapy requirements using state-space modelling},
+  journal   = {Nature Communications},
+  year      = {2025},
+  month     = {July},
+  doi       = {10.1038/s41467-025-62121-1},
 }
 ```
 
@@ -239,3 +235,4 @@ If you use this work in your research, please cite:
 - Dr. Parisa Rashidi: [parisa.rashidi@bme.ufl.edu](mailto:parisa.rashidi@bme.ufl.edu)
 
 ---
+
